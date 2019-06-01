@@ -1,6 +1,6 @@
 {
  "name": "socket-rpc-graphql",
- "version": "0.0.4",
+ "version": "0.0.5",
  "description": "Link socket to GraphQL via Agnostic RPC",
  "keywords": [],
  "author": {
@@ -14,7 +14,7 @@
  "private": false,
  "dependencies": {
   "agnostic-rpc-graphql": "^0.0.3",
-  "agnostic-rpc-socket": "^0.0.2",
+  "agnostic-rpc-socket": "^0.0.3",
   "esm": "^3.2.25"
  },
  "main": "index.js",
