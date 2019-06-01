@@ -1,6 +1,6 @@
 {
  "name": "socket-rpc-graphql",
- "version": "0.0.2",
+ "version": "0.0.3",
  "description": "Link socket to GraphQL via Agnostic RPC",
  "keywords": [],
  "author": {

@@ -1,4 +1,4 @@
 import SocketRpcGraphqlClientLink from './src/SocketRpcGraphqlClientLink';
-import SocketRpcGraphQLServer from './src/SocketRpcGraphQLServer';
+import SocketRpcGraphqlServer from './src/SocketRpcGraphqlServer';
 
-export {SocketRpcGraphqlClientLink, SocketRpcGraphQLServer}
+export {SocketRpcGraphqlClientLink, SocketRpcGraphqlServer}
