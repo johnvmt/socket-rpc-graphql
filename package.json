@@ -1,0 +1,23 @@
+{
+ "name": "socket-rpc-graphql",
+ "version": "0.0.1",
+ "description": "Link socket to GraphQL via Agnostic RPC",
+ "keywords": [],
+ "author": {
+  "name": "John Murphy-Teixidor",
+  "email": "johnvmt@gmail.com"
+ },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/johnvmt/socket-rpc-graphql"
+ },
+ "private": false,
+ "dependencies": {
+  "agnostic-rpc-socket": "^0.0.1",
+  "agnostic-rpc-graphql": "^0.0.1",
+  "esm": "^3.0.84"
+ },
+ "main": "index.js",
+ "module": "module.js",
+ "devDependencies": {}
+}
